@@ -1,6 +1,13 @@
 title: Isaac Kosloski
-description: >-
-  Engenharia de Computação | HPC | Sistemas Embarcados | Otimização Computacional
 theme: jekyll-theme-minimal
-show_downloads: false
-google_analytics:
+
+# Navegação para múltiplas páginas
+# Links aparecerão no topo com base nesse menu
+navigation:
+  - title: 🇧🇷 Português
+    url: /index.md
+  - title: 🇺🇸 English
+    url: /en.md
+
+# Permite usar markdown com páginas personalizadas
+markdown: kramdown

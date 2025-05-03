@@ -1,66 +1,52 @@
-# Isaac Kosloski Oliveira
+---
+layout: default
+title: Isaac Kosloski
+---
 
-🚀 Engenheiro de Computação | 🧠 Pesquisador em Metaheurísticas | 💻 Desenvolvedor C++ | ⚙️ Otimização Computacional
+# 👋 Bem-vindo ao meu GitHub Pages
 
-[LinkedIn](https://www.linkedin.com/in/isaac-kosloski-oliveira-019625a9/) • [Repositórios GitHub](https://github.com/IsaacKosloski) • [Email](mailto:isaac.kosloski@aluno.ufms.br)
+🎓 **Engenharia de Computação | HPC | Sistemas Embarcados | Linux**
+
+Sou estudante de Engenharia de Computação na UFMS, com foco em **Computação de Alto Desempenho (HPC)**, **Sistemas Embarcados** e desenvolvimento de soluções eficientes para problemas complexos como o **Capacitated Vehicle Routing Problem (CVRP)**.
+
+Trabalho com implementações otimizadas em **C++**, paralelização com **OpenMP** e **CUDA**, automação em **Linux/Bash**, e integração hardware/software em projetos embarcados. Também desenvolvo dashboards interativos com **Python + Streamlit** para visualização e controle de resultados computacionais.
 
 ---
 
-## Sobre Mim
+## 🚀 Áreas de Interesse
 
-Sou graduando em Engenharia de Computação na **UFMS**, com forte interesse em **otimização combinatória**, **metaheurísticas** e **alto desempenho computacional**. Minhas áreas de atuação incluem:
-
-- 🚚 **Problemas de Roteamento de Veículos (CVRP, TSP)**
-- 🔁 **Metaheurísticas como ILS, GRASP, Simulated Annealing**
-- 💾 **Desenvolvimento em C++ com OpenMP e CUDA**
-- 📊 Dashboards em Python + Streamlit para análise de dados
-
----
-
-## 🧠 Projetos em Destaque
-
-### 🔹 [Capacitated Vehicle Routing Problem - ILS](https://github.com/IsaacKosloski/CapacitatedVehicleRoutingProblem-ILS)
-> Solução do CVRP usando Iterated Local Search (C++ com modularização clara).
-
-- Cálculo de soluções viáveis com abordagem ILS
-- Análise de custo, tempo e variação de rotas
-- Modular e extensível para novas heurísticas
+- 🖥️ **High Performance Computing (HPC)**
+- ⚙️ **Sistemas Embarcados**
+- 📦 **Metaheurísticas (ILS, GRASP, etc.)**
+- 🐧 **Linux System Programming**
+- 📊 **Visualização com Python & Streamlit**
 
 ---
 
-### 🔹 [GRASP Metaheuristic for VRP](https://github.com/IsaacKosloski/CapacitatedVehicleRoutingProblem-GRASP)
-> Implementação da metaheurística GRASP para resolver o VRP.
+## 🧰 Tecnologias e Ferramentas
 
-- Heurística gulosa com aleatoriedade controlada
-- Busca local otimizada com 2-opt e swap
-- Dados estruturados para análise posterior
-
----
-
-### 🔹 [Análise e Visualização de Resultados do CVRP](https://github.com/IsaacKosloski/CapacitatedVehicleRoutingProblem-Dashboard)
-> Dashboard interativo com Streamlit e SQLite para análise de execuções de CVRP.
-
-- Cálculo automático de estatísticas
-- Gráficos de comparação entre métodos (ILS, GRASP, etc.)
-- Exportação de dados e consumo via API
+```text
+C++ | Python | CUDA | OpenMP | Bash | Streamlit | SQLite
+Linux | Git | GCP | Makefile | LaTeX | GitHub Actions
+```
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## 📁 Projetos em Destaque
 
-- **Linguagens:** C++, Python, CUDA, OpenMP, Bash
-- **Visualização:** Streamlit, Matplotlib, Plotly
-- **Versionamento:** Git, GitHub
-- **Otimização:** Metaheurísticas, Algoritmos Genéticos, 2-opt
+| Projeto | Descrição | Tecnologias | Link |
+|--------|-----------|-------------|------|
+| **CVRP-ILS** | Solucionador do CVRP com Iterated Local Search | C++, OpenMP | [🔗 Ver](https://github.com/IsaacKosloski/CapacitatedVehicleRoutingProblem-ILS) |
+| **CVRP-Dashboard** | Dashboard com estatísticas e rotas interativas | Python, Streamlit | [🔗 Ver](https://github.com/IsaacKosloski/CapacitatedVehicleRoutingProblem-Dashboard) |
+| **Run-Scripts** | Scripts Bash para execução paralela de testes | Bash, Linux | [🔗 Ver](https://github.com/IsaacKosloski/CapacitatedVehicleRoutingProblem-ILS/tree/main/scripts) |
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: isaac.kosloski@aluno.ufms.br  
-- 💼 LinkedIn: [linkedin.com/in/isaac-kosloski-oliveira-019625a9](https://www.linkedin.com/in/isaac-kosloski-oliveira-019625a9)
+- LinkedIn: [isaac-kosloski-oliveira](https://www.linkedin.com/in/isaac-kosloski-oliveira-019625a9/)
+- GitHub: [IsaacKosloski](https://github.com/IsaacKosloski)
 
 ---
 
-🧠 _“A melhor solução não é sempre a exata, mas sim a eficiente.”_
-
+> Esta página foi construída com 💡 usando GitHub Pages + tema *minimal*.
